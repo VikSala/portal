@@ -1,0 +1,5 @@
+[
+  { "email": "skalibrator@hotmail.com", "password": "admin1", "url": "http://143.47.53.74:8069" },
+  { "email": "quimi1973@hotmail.com",   "password": "admin1", "url": "http://143.47.39.5:8069" },
+  { "email": "quimi1973",               "password": "admin2", "url": "http://143.47.39.5:8070" }
+]
